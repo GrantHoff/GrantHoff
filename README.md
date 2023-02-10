@@ -25,6 +25,6 @@
 📩・**Want to reach? Add norman#7507 on discord**
 
 
-<a href="https://www.youtube.com/watch?v=o-YBDTqX_ZU" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/135165509426479104.png"/></a>
+<a href="https://www.youtube.com/watch?v=o-YBDTqX_ZU" target="_blank"> 
 
 <br clear="both">
