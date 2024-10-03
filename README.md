@@ -1,4 +1,4 @@
-<h2 align="left">What Up! My name is Grant</h2>
+<h2 align="left">Grant's Github Page</h2>
 
 ###
 
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/GrantHoff" alt="Profile Stars"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/GrantHoff" alt="Profile Forks"></a>
 
-📩・**Want to reach? Add norman#7507 on discord**
+📩・**Want to reach? Add hoffdaddy2#7507 on discord**
 
 
 <a href="https://www.youtube.com/watch?v=o-YBDTqX_ZU" target="_blank"> 
